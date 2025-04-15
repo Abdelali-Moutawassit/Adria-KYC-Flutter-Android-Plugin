@@ -61,4 +61,3 @@ Les contributions sont les bienvenues ! Pour proposer des modifications, ouvrez 
 
 ## Auteur
 Abdelali Moutawassit
-
